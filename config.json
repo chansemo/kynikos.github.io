@@ -1,10 +1,10 @@
 {
-    "name": "imuncle",
-    "repo": "gitblog",
-    "client_id": "4148cca0f91e524d1a42",
-    "client_secret": "637c2c993cccf79c51a0a215f538932edfdcb9b0",
-    "title": "Gitblog",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "name": "chansemo",
+    "repo": "kynikos.github.io",
+    "client_id": "Ov23liHLf69XZqPKOIT1",
+    "client_secret": "d70f2c37e139627320e81f6e94cc82ea3e8ff720",
+    "title": "kynikos",
+    "instruction": "blog of kynikos",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "all",
@@ -12,6 +12,7 @@
     },
     "menu": {
         "首页":"./"
+        "尾页":"./"
     },
     "friends": {
         "imuncle" : "https://imuncle.github.io"
